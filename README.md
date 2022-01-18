@@ -1,14 +1,14 @@
 # README #
 Soal Test
-
-username : admin
-password : admin
-
-user pegawai 
-username : pegawai
-password : pegawai1
-
-username : pegawai
-password : userpegawai2
-
+<br>
+username : admin<br>
+password : admin<br><br>
+<br>
+user pegawai <br>
+username : pegawai<br>
+password : pegawai1<br><br>
+<br>
+username : pegawai<br>
+password : userpegawai2<br><br>
+<br>
 Basic Codeigniter 3 dengan template admin dari https://colorlib.com 
